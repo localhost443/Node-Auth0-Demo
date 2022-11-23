@@ -1,0 +1,21 @@
+{
+  "name": "express-aouth0-demo",
+  "version": "1.0.0",
+  "description": "A simple project to test AUth0 and dig into how it's working ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Auth0",
+    "Express",
+    "Javascript",
+    "Nodejs"
+  ],
+  "author": "Sakhawat Hossen (localhost443)",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.8",
+    "express": "^4.18.2"
+  }
+}
